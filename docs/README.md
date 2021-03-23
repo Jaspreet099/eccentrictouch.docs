@@ -24,6 +24,12 @@ Copy and Paste the Code snippet given below, this will connect the v.1.0 of Ecce
 
 ### Fonts
 
+|Fonts|Description|Sample|
+|----------|------|------|
+|**Poppins**|This is the main`font-family`for this version.| ![Poppins](screenshots/Poppins.png)|
+
+
+
 ### Colors
 
 #### Basic Colors
