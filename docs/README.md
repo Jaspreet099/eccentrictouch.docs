@@ -32,6 +32,8 @@ Copy and Paste the Code snippet given below, this will connect the v.1.0 of Ecce
 
 ### Colors
 
+<img src="screenshots/color_schemes_version_01.svg" style="width: 80%"/>
+
 #### Basic Colors
 
 #### Background Colors
