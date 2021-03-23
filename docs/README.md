@@ -15,17 +15,10 @@ Copy and Paste the Code snippet given below, this will connect the v.1.0 of Ecce
 
 ### Buttons
 
-1. Cartoon Buttons
-  <br/><br/>
-  
-  <a class="cartoon_button">I am a Button</a>
-
-  ```html
-  <a href="#" class="cartoon_button">I am a Button</a>
-  ```
-
-  <a class="cartoon_button_hoverable">I am a Button</a>
-
+|Class Name|Output|
+|----------|------|
+|**cartoon_button**|![cartoon_button](screenshots/cartoon_button.png)|
+|**cartoon_button non_decorated**|![cartoon_button-non_decorated](screenshots/cartoon_button-non_decorated.png)|
 
 
 
