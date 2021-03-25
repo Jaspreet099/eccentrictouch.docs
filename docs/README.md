@@ -83,6 +83,15 @@ Copy and Paste the Code snippet given below, this will connect the v.1.0 of Ecce
 
 <img src="screenshots/headings.svg" style="width: 80%" />
 
+``` html
+<h1>This is a Heading</h1>
+<h2>This is a Heading</h2>
+<h3>This is a Heading</h3>
+<h4>This is a Heading</h4>
+<h5>This is a Heading</h5>
+<h6>This is a Heading</h6>
+```
+
 #### Other Tags
 
 <img src="screenshots/text_properties.svg" width="80%" />
