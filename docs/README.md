@@ -93,4 +93,23 @@ Copy and Paste the Code snippet given below, this will connect the v.1.0 of Ecce
 
 #### Color Usage & Properties
 
+<img src="screenshots/color_usage.svg"
+style="margin:3px;">
 
+<img src="screenshots/color_usage_details.svg">
+
+``` html
+<h2 class="font-teal">This is a Heading </h2>
+<h2 class="font-purple">This is a Heading </h2>
+<h2 class="font-red">This is a Heading </h2>
+```
+```html
+<p class="font-teal">This is a Paragraph Text.</p>
+<b class="font-purple">This is a Bold Text.</b>
+<u class="font-red">This is a Underlined Text.</u>
+```
+```html
+<a href="#" class="cartoon_button bg-teal"> Button </a>
+<a href="#" class="cartoon_button bg-purple"> Button </a>
+<a href="#" class="cartoon_button bg-red"> Button </a>
+```
