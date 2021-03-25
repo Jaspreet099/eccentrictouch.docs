@@ -1,4 +1,4 @@
-# Documentation - Eccentric Touch
+# Documentation - Eccentric Touch (v1.0)
 
 ## Introduction
 
@@ -100,12 +100,50 @@ Copy and Paste the Code snippet given below, this will connect the v.1.0 of Ecce
 
 <img src="screenshots/color_schemes_version_01.svg" style="width: 80%" />
 
+``` CSS
+/** General Colors **/
+  .font-teal {
+    color: #03A0A0;
+  }
+  .font-purple {
+    color: #001AFF;
+  }
+  .font-green {
+    color: #28BD2B;
+  }
+  .font-blue {
+    color: #5656FF;
+  }
+  .font-red {
+    color: #C93434;
+  }
+```
+
+``` CSS
+/** Background Colors **/
+  .bg-teal {
+    color: #03A0A0;
+  }
+  .bg-purple {
+    color: #001AFF;
+  }
+  .bg-green {
+    color: #28BD2B;
+  }
+  .bg-blue {
+    color: #5656FF;
+  }
+  .bg-red {
+    color: #C93434;
+  }
+```
+
 #### Color Usage & Properties
 
 <img src="screenshots/color_usage.svg"
-style="margin:3px;">
+style="margin:3px; width: 80%;">
 
-<img src="screenshots/color_usage_details.svg">
+<img src="screenshots/color_usage_details.svg" style="width:80%;">
 
 ``` html
 <h2 class="font-teal">This is a Heading </h2>
