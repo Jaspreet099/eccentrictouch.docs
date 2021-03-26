@@ -22,25 +22,25 @@ Copy and Paste the Code snippet given below, this will connect the v.1.0 of Ecce
 <img src="screenshots/cartoon_button.png" style="margin-left:22%;">
 
 ``` html
-<a href="#" class="cartoon_button">
+<a href="#" class="cartoon_button">Button</a>
 ```
 
 <img src="gif/1.gif">
 
 ``` html
-<a href="#" class="cartoon_button_hoverable">
+<a href="#" class="cartoon_button_hoverable">Button</a>
 ```
 
 <img src="gif/2.gif">
 
 ``` html
-<a href="#" class=".cartoon_button_semicurved_hoverable">
+<a href="#" class="cartoon_button_semicurved_hoverable">Button</a>
 ```
 
 <img src="gif/3.gif">
 
 ``` html
-<a href="#" class=".cartoon_button_curved_hoverable">
+<a href="#" class="cartoon_button_curved_hoverable">Button</a>
 ```
 
 
@@ -48,28 +48,28 @@ Copy and Paste the Code snippet given below, this will connect the v.1.0 of Ecce
 
 
 ``` html
-<a href="#" class="cartoon_active_link">
+<a href="#" class="cartoon_active_link">Button</a>
 ```
 
 <img src="gif/5.gif">
 
 
 ``` html
-<a href="#" class="cartoon_underlined_link">
+<a href="#" class="cartoon_underlined_link">Button</a>
 ```
 
 <img src="gif/6.gif">
 
 
 ``` html
-<a href="#" class="cartoon_non_underlined_link">
+<a href="#" class="cartoon_non_underlined_link">Button</a>
 ```
 
 <img src="gif/7.gif">
 
 
 ``` html
-<a href="#" class="cartoon_multi_layer_button">
+<a href="#" class="cartoon_multi_layer_button">Button</a>
 ```
 
 ### Fonts
@@ -92,9 +92,17 @@ Copy and Paste the Code snippet given below, this will connect the v.1.0 of Ecce
 <h6>This is a Heading</h6>
 ```
 
-#### Other Tags
+#### General Text Based Tags
 
 <img src="screenshots/text_properties.svg" width="80%" />
+
+``` html
+<p>This is a paragraph text</p>
+<b>This is a bold text</b>
+<i>This is an italic text</i>
+<u>This is an underlined text</u>
+<q>This is a quoted text</q>
+```
 
 ### Colors
 
