@@ -18,13 +18,3 @@ Copy and Paste the Code snippet given below, this will connect the v.1.0 of Ecce
 ## Components
 
 ### Buttons
-
-<button>Primary Button</button>
-<button class="et-button">Primary Button</button>
-<button class="et-button-info-secondary">Secondary Button</button>
-
-<br>
-
-<button class="et-button-danger">Primary Button</button>
-<button class="et-button-invalid">Primary Button</button>
-<button class="et-button-alert-secondary">Primary Button</button>
