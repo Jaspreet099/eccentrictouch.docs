@@ -11,10 +11,20 @@ Go give it a try!
 
 Copy and Paste the Code snippet given below, this will connect the v.1.0 of Eccentric Touch to your webpage.
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/DesignSystemsOSS/eccentrictouch@v1.0/src/lib/eccentric.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/DesignSystemsOSS/eccentrictouch@v2.0/src/lib/eccentric.css">
 ```
 
 
 ## Components
 
 ### Buttons
+
+<button>Primary Button</button>
+<button class="et-button">Primary Button</button>
+<button class="et-button-info-secondary">Secondary Button</button>
+
+<br>
+
+<button class="et-button-danger">Primary Button</button>
+<button class="et-button-invalid">Primary Button</button>
+<button class="et-button-alert-secondary">Primary Button</button>
