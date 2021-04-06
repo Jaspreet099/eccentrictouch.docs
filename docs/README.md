@@ -43,3 +43,15 @@ Copy and Paste the Code snippet given below, this will connect the v.1.0 of Ecce
 |h4|` <h4 class="et-h4">This is a Heading</h4>`| <h4 class="et-h4">This is a Heading</h4>|
 |h5|` <h5 class="et-h5">This is a Heading</h5>`| <h5 class="et-h5">This is a Heading</h5>|
 |h6|` <h6 class="et-h6">This is a Heading</h6>`|   <h6 class="et-h6">This is a Heading</h6>|
+
+
+### Text Tags
+
+
+|Heading Type|Code in HTML|Heading Demo|
+|-----------|----------|-----------|
+|p|`<h1 class="et-h1">This is a Heading</h1>`|<h1 class="et-h1">This is a Heading</h1>|
+|b|` <h2 class="et-h2">This is a Heading</h2>`| <h2 class="et-h2">This is a Heading</h2>|
+|i|` <h3 class="et-h3">This is a Heading</h3>`|<h3 class="et-h3">This is a Heading</h3>|
+|u|` <h4 class="et-h4">This is a Heading</h4>`| <h4 class="et-h4">This is a Heading</h4>|
+|q|` <h5 class="et-h5">This is a Heading</h5>`| <h5 class="et-h5">This is a Heading</h5>|
