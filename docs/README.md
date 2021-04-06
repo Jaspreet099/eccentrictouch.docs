@@ -47,8 +47,8 @@ Copy and Paste the Code snippet given below, this will connect the v.1.0 of Ecce
 
 |Tag Type|Code in HTML|Demo|
 |-----------|----------|-----------|
-|p|`<p class="et-paragragh">Paragraph Text</p>`| <p class="et-paragragh">Paragraph Text</p>|
-|b|`<b>Bold Text</b>`| <b>Bold Text</b>
-|i|`<i>Italic Text</i>`</h3>| <i>Italic Text</i>|
-|u|`<u>Underlined Text</u>`|<u>Underlined Text</u>|
-|q|`<q class="et-quote">Quote</q>`| <q class="et-quote">Quote</q>|
+|paragraph|`<p class="et-paragraph">Paragraph Text</p>`| <p class="et-paragraph">Paragraph Text</p>|
+|bold|`<b>Bold Text</b>`| <b>Bold Text</b>
+|italics|`<i>Italic Text</i>`</h3>| <i>Italic Text</i>|
+|underline|`<u>Underlined Text</u>`|<u>Underlined Text</u>|
+|quote|`<q>Quote</q>`| <q>Quote</q>|
