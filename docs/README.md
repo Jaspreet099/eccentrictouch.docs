@@ -35,20 +35,20 @@ Copy and Paste the Code snippet given below, this will connect the v.1.0 of Ecce
 
 |Heading Type|Code in HTML|Heading Demo|
 |-----------|----------|-----------|
-|h1|<h1 class="et-h1">This is a Heading</h1>|<h1 class="et-h1">This is a Heading</h1>|
-|h2| <h2 class="et-h2">This is a Heading</h2>| <h2 class="et-h2">This is a Heading</h2>|
-|h3| <h3 class="et-h3">This is a Heading</h3>|<h3 class="et-h3">This is a Heading</h3>|
-|h4| <h4 class="et-h4">This is a Heading</h4>| <h4 class="et-h4">This is a Heading</h4>|
-|h5| <h5 class="et-h5">This is a Heading</h5>| <h5 class="et-h5">This is a Heading</h5>|
-|h6| <h6 class="et-h6">This is a Heading</h6>|   <h6 class="et-h6">This is a Heading</h6>|
+|h1|`<h1 class="et-h1">This is a Heading</h1>`|<h1 class="et-h1">This is a Heading</h1>|
+|h2|`<h2 class="et-h2">This is a Heading</h2>`| <h2 class="et-h2">This is a Heading</h2>|
+|h3|`<h3 class="et-h3">This is a Heading</h3>`|<h3 class="et-h3">This is a Heading</h3>|
+|h4|`<h4 class="et-h4">This is a Heading</h4>`| <h4 class="et-h4">This is a Heading</h4>|
+|h5|`<h5 class="et-h5">This is a Heading</h5>`| <h5 class="et-h5">This is a Heading</h5>|
+|h6|`<h6 class="et-h6">This is a Heading</h6>`|   <h6 class="et-h6">This is a Heading</h6>|
 
 
 ### Text Tags
 
-|Heading Type|Code in HTML|Heading Demo|
+|Tag Type|Code in HTML|Demo|
 |-----------|----------|-----------|
-|p|<h1 class="et-h1">This is a Heading</h1>|<h1 class="et-h1">This is a Heading</h1>|
-|b| <h2 class="et-h2">This is a Heading</h2>| <h2 class="et-h2">This is a Heading</h2>|
-|i| <h3 class="et-h3">This is a Heading</h3>|<h3 class="et-h3">This is a Heading</h3>|
-|u| <h4 class="et-h4">This is a Heading</h4>| <h4 class="et-h4">This is a Heading</h4>|
-|q| <h5 class="et-h5">This is a Heading</h5>| <h5 class="et-h5">This is a Heading</h5>|
+|p|`<p class="et-paragragh">Paragraph Text</p>`| <p class="et-paragragh">Paragraph Text</p>|
+|b|`<b>Bold Text</b>`| <b>Bold Text</b>
+|i|`<i>Italic Text</i>`</h3>| <i>Italic Text</i>|
+|u|`<u>Underlined Text</u>`|<u>Underlined Text</u>|
+|q|`<q class="et-quote">Quote</q>`| <q class="et-quote">Quote</q>|
