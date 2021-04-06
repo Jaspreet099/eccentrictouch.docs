@@ -11,10 +11,23 @@ Go give it a try!
 
 Copy and Paste the Code snippet given below, this will connect the v.1.0 of Eccentric Touch to your webpage.
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/DesignSystemsOSS/eccentrictouch@v2.0/src/lib/eccentric.css">
+<link rel="stylesheet" href="https://cdn.statically.io/gh/DesignSystemsOSS/eccentrictouch/v2.0/src/lib/eccentric.css">
 ```
 
 
 ## Components
 
 ### Buttons
+
+|Button Type|Code in HTML|Button Demo|
+|-----------|----------|-----------|
+|Default|`<button>Default</button>`|<button>Default</button>|
+|Info|`<button class="et-button">Info</button>`|<button class="et-button">Info</button>|
+|Secondary|`<button class="et-button-secondary">Secondary</button>`|<button class="et-button-secondary">Info</button>|
+|Invalid|`<button class="et-button-invalid">Primary Invalid</button>`|<button class="et-button-invalid">Invalid</button>|
+|Invalid Secondary|`<button class="et-button-invalid-secondary">Invalid Secondary</button>`|<button class="et-button-invalid-secondary">Invalid</button>|
+|Warning|`<button class="et-button-warning">Warning</button>`|<button class="et-button-warning">Warning</button>|
+|Warning Secondary|`<button class="et-button-warning-secondary">Warning</button>`|<button class="et-button-warning-secondary">Warning</button>|
+|Valid|`<button class="et-button-valid">Valid</button>`|<button class="et-button-valid">Valid</button>|
+|Valid Secondary|`<button class="et-button-valid-secondary">Valid</button>`|<button class="et-button-valid-secondary">Valid</button>|
+
