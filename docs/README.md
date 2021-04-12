@@ -32,6 +32,8 @@ Copy and Paste the Code snippet given below, this will connect the v.1.0 of Ecce
 |Valid|`<button class="et-button-valid">Valid</button>`|<button class="et-button-valid">Valid</button>|
 |Valid Secondary|`<button class="et-button-valid-secondary">Valid</button>`|<button class="et-button-valid-secondary">Valid</button>|
 
+
+
 ### Headings
 
 |Heading Type|Code in HTML|Heading Demo|
@@ -45,6 +47,7 @@ Copy and Paste the Code snippet given below, this will connect the v.1.0 of Ecce
 
 
 ### Text Tags
+
 
 |Tag Type|Code in HTML|Demo|
 |-----------|----------|-----------|
